@@ -25,3 +25,10 @@ Jag jobbade också lite med namn, så som  White Whale Writings, Baleen Books, S
 och det som jag tillslut bestämde mig för: Seiwhale Science <br>
 Dock så gillar nils verkligen inte min idé om varken logga eller namn, så vi kanske behöver fixa något annat snart, ett stort problem är att Casper, som ska  vara våran ledare,  varken håller med eller säger emot något, eller iallafall inte så jag kan jobba med det. 
 <br>
+## 2023-03-13
+_____________
+Vi jobbade på vårat design system och sen så jobbade vi lite mer på en logga och ett namn som vi var lite mer överens om, men Cacper och Nils är fortfarande inte övertygade, dom tycker att det jag gör är helt orelaterat till det vi håller på med. <br>
+Till exempel så är Eelectric inte bra för att ålar inte har något med det vi gör att göra, annars tycker jag att det är ett ganska bra namn och så med tanke på att ålar ofta är kopplade till el, med tanke på elektriska ålar, och dessutom är stenungsund en havsstad och förövrigt är det ett ganska kul namn som det inte verkar som någon har, utom ett litet företag i storbrittanien, men det är inte en svensk domän så det verkar som det är ok? Hursomhelst så kan man bara sätta in ett bindelstreck: så det blir Eel-ectrics och det är ledigt. <br>
+Jag gjorde också en logga <br>
+<img src="https://cdn.discordapp.com/attachments/1082244469551812689/1084799544635699220/image.png" alt="Darkmode" style="height: 100px; width:auto;"/>
+<img src="https://cdn.discordapp.com/attachments/1082244469551812689/1084800623914012702/image.png" alt="Lightmode" style="height: 100px; width:auto;"/> <br>
