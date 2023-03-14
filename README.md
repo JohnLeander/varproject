@@ -32,3 +32,8 @@ Till exempel så är Eelectric inte bra för att ålar inte har något med det v
 Jag gjorde också en logga <br>
 <img src="https://cdn.discordapp.com/attachments/1082244469551812689/1084799544635699220/image.png" alt="Darkmode" style="height: 100px; width:auto;"/>
 <img src="https://cdn.discordapp.com/attachments/1082244469551812689/1084800623914012702/image.png" alt="Lightmode" style="height: 100px; width:auto;"/> <br>
+<br>
+## 2023-03-14
+_____________
+Fortsatte på vårat designsystem och kom fram till att loggan fungerade bra och att vi ska ha Eelectric som namn, gjorde också lite finslipningar på loggan vilket jag kommer fortsätta att göra under projektets gång. <br>
+Jag började också på en ERROR 404-screen och en simplare variant av loggan som ser bättre ut från ett avstånd, 404 screenen ska också ha en variant på våran logga där den blir träffad av blixten och ser lite knasig ut.
