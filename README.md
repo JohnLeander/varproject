@@ -36,4 +36,10 @@ Jag gjorde också en logga <br>
 ## 2023-03-14
 _____________
 Fortsatte på vårat designsystem och kom fram till att loggan fungerade bra och att vi ska ha Eelectric som namn, gjorde också lite finslipningar på loggan vilket jag kommer fortsätta att göra under projektets gång. <br>
-Jag började också på en ERROR 404-screen och en simplare variant av loggan som ser bättre ut från ett avstånd, 404 screenen ska också ha en variant på våran logga där den blir träffad av blixten och ser lite knasig ut.
+Jag började också på en ERROR 404-screen och en simplare variant av loggan som ser bättre ut från ett avstånd, 404 screenen ska också ha en variant på våran logga där den blir träffad av blixten och ser lite knasig ut. <br>
+<br>
+## 2023-03-20
+_____________
+Jag tyckte att vi skulle byta font till Tw Cen MT istället för Georgia och Calibri för att det ser ut som en mer profitionell och seriösare font, och ger en inte fantasy vibes vilket jag personligen inte känner passar så bra med vårat arbetes tema, men sen kom jag på att det bara var stylecheeten som var i en skum font och inte ddom vi hade valt så det var ingen fara<br>
+Sen jobbade jag en bra del med en av våra html dockument och märkte inte att vi hade en h4 så det får vi fixa nästa gång, med en hel del annan css <br>
+<br>
