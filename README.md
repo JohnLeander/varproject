@@ -15,6 +15,7 @@ __________
 Jag gjorde en moodboard och color palette till våran hemsida, och diskuterade fram och tillbaka om hur vi skulle ha det.<br>
 <img src="https://cdn.discordapp.com/attachments/1082244469551812689/1082244532910964756/image.png" alt="Moodboard" style="height: 100px; width:auto;"/>
 <img src="https://cdn.discordapp.com/attachments/1082244469551812689/1082244590716866560/palette1.png" alt="Colorpelette" style="height: 100px; width:auto;"/>
+Tänke också fixa en Bootstrap men Nils tyckte det var onödigt och att vi bara skulle hitta ett reset dokument på github istället<br>
 <br>
 ## 2023-03-07
 _____________
@@ -23,7 +24,7 @@ Jag testade runt lite med loggor och gjorde en som jag blev ganska nöjd med, i 
 <img src="https://cdn.discordapp.com/attachments/1048165894947360849/1082624431614066778/image.png" alt="Lightmode" style="height: 100px; width:auto;"/> <br>
 Jag jobbade också lite med namn, så som  White Whale Writings, Baleen Books, Seiwhale Surveys och Whalefin Facts
 och det som jag tillslut bestämde mig för: Seiwhale Science <br>
-Dock så gillar nils verkligen inte min idé om varken logga eller namn, så vi kanske behöver fixa något annat snart, ett stort problem är att Casper, som ska  vara våran ledare,  varken håller med eller säger emot något, eller iallafall inte så jag kan jobba med det. 
+Dock så gillar nils verkligen inte min idé om varken logga eller namn, så vi kanske behöver fixa något annat snart, ett stort problem är att Casper, som ska  vara våran ledare,  varken håller med eller säger emot något, eller iallafall inte så jag kan jobba med det. <br>
 <br>
 ## 2023-03-13
 _____________
@@ -43,3 +44,14 @@ _____________
 Jag tyckte att vi skulle byta font till Tw Cen MT istället för Georgia och Calibri för att det ser ut som en mer profitionell och seriösare font, och ger en inte fantasy vibes vilket jag personligen inte känner passar så bra med vårat arbetes tema, men sen kom jag på att det bara var stylecheeten som var i en skum font och inte ddom vi hade valt så det var ingen fara<br>
 Sen jobbade jag en bra del med en av våra html dockument och märkte inte att vi hade en h4 så det får vi fixa nästa gång, med en hel del annan css <br>
 <br>
+## 2023-03-21
+_____________
+Jag jobbade med att göra om min text, i word, till HTML <br>
+<br>
+## 2023-03-27
+_____________
+Vi kom fram till att vi faktiskt behövde bootsrap trots det nils sa, när vi la in bootsrap så var det också lite problematiskt med light och darkmode så det fick vi försöka fixa, men vi lyckades inte den här lektionen. <br>
+<br>
+## 2023-03-28
+_____________
+
