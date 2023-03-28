@@ -53,5 +53,5 @@ _____________
 Vi kom fram till att vi faktiskt behövde bootsrap trots det nils sa, när vi la in bootsrap så var det också lite problematiskt med light och darkmode så det fick vi försöka fixa, men vi lyckades inte den här lektionen. <br>
 <br>
 ## 2023-03-28
-_____________
-
+_____________ 
+Fortsatte jobba på utseendet av min artickel, och standardiserade font size så den inte längre var baserad på px <br>
