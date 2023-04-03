@@ -55,3 +55,7 @@ Vi kom fram till att vi faktiskt behövde bootsrap trots det nils sa, när vi la
 ## 2023-03-28
 _____________ 
 Fortsatte jobba på utseendet av min artickel, och standardiserade font size så den inte längre var baserad på px <br>
+<br>
+## 2023-04-03
+_____________
+Fortsatte jobba på min artickel med både CSS och HTML, föreslog också att lägga in våra färger i main css dockumentet men dom andra höll inte med.
